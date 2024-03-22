@@ -9,7 +9,8 @@ export const theme = extendTheme({
     secondary: "#3A4374",
     "light-secondary": "#647196",
     brown: "#373F68",
-    blue: "#62BCFA"
+    blue: "#62BCFA",
+    "bg-white": "#fdf7f7"
   },
   borderRadius: {
     10: "10px"

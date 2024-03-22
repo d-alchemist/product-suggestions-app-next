@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Grid
       templateColumns={{ base: "auto", lg: "repeat(7, 1fr)" }}
-      bg="#fdf7f7"
+      bg="bg-white"
       gap="10"
     >
       <GridItem colSpan={{ base: 7, lg: 2 }}>
