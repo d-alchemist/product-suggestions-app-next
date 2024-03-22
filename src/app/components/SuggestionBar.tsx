@@ -24,6 +24,7 @@ export default function SuggestionBar() {
             bg="pink-primary"
             color="white"
             fontSize="sm"
+            fontWeight="bold"
             _hover={{ bg: "pink-primary" }}
           >
             + Add Feedback

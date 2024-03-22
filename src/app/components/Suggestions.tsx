@@ -79,7 +79,9 @@ export default function Suggestions() {
               color="primary"
               px="3"
               py="2"
+              fontSize="13"
               borderRadius="10"
+              fontWeight="semibold"
             >
               {suggestion.badge}
             </Badge>
